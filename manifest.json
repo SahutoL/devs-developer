@@ -1,0 +1,17 @@
+{
+  "short_name": "Dev Store",
+  "name": "Dev Store",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#007BFF",
+  "background_color": "#f0f2f5"
+}
