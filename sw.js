@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'dev-store-v2.1';
+const CACHE_NAME = 'dev-store-v2.2';
 const urlsToCache = [
   '/',
   '/index.html',
