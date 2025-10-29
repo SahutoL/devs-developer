@@ -3,6 +3,7 @@ const CACHE_NAME = 'dev-store-v2.1';
 const urlsToCache = [
   '/',
   '/index.html',
+  '/google75d97994c790c615.html',
   // Note: We can't cache CDN resources with this basic setup.
   // In a real app with a build step, you would list your local JS/CSS files.
 ];
